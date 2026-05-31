@@ -228,7 +228,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/Yash%20Kumar%20Kohle">
+<a href="www.linkedin.com/in/yash-kumar-kohle-b60583396">
   <img src="https://img.shields.io/badge/Join_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
