@@ -16,7 +16,7 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Yashkumar07-cyber?style=for-the-badge&color=00cfff&labelColor=0d1117)](https://github.com/Yashkumar07-cyber)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash%20Kumar%20Kohle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-kohle-b60583396/?skipRedirect=true)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkumarkohle06@gmail.com)
 
@@ -228,7 +228,7 @@
 
 <br/><br/>
 
-<a href="www.linkedin.com/in/yash-kumar-kohle-b60583396">
+<a href="https://www.linkedin.com/in/yash-kumar-kohle-b60583396/?skipRedirect=true">
   <img src="https://img.shields.io/badge/Join_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
